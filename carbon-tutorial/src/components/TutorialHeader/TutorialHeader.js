@@ -13,7 +13,6 @@ import {
   SideNavItems,
   HeaderSideNavItems,
 } from 'carbon-components-react';
-
 import {
   AppSwitcher20,
   Notification20,
@@ -51,7 +50,6 @@ const TutorialHeader = () => (
             </HeaderSideNavItems>
           </SideNavItems>
         </SideNav>
-
         <HeaderGlobalBar>
           <HeaderGlobalAction aria-label="Notifications">
             <Notification20 />
